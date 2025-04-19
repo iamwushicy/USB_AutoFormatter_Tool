@@ -1,6 +1,6 @@
 # USB_AutoFormatter_Tool
-# Warning : For learning purposes only
 A Auto-Format Tool.
+# Warning : For learning purposes only
 # Usage Instructions
 1.Create a data folder in the same directory as the script
 2.Place all files you want copied to USB drives in this folder
